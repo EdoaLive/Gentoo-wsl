@@ -1,0 +1,4 @@
+sys-apps/portage -ipc
+
+# See https://bugs.gentoo.org/669994
+dev-qt/qtcore old-kernel
