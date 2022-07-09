@@ -1,4 +1,0 @@
-# accept wsl's PATH:
-# PATH="$PATH"
-
-TEST_WSL = ' "$PATH" '
